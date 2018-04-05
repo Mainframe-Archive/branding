@@ -22,7 +22,7 @@ Mainframe incorporates red-rose, light blue, dark blue and black colors througho
 
 Mainframe’s illustrations convey the mission and values of the company.  Please use them accordingly.
 
-##Fonts
+## Fonts
 
 Mainframe’s fonts are free of use. Font weights have specific purposes, please use them accordingly.
 
