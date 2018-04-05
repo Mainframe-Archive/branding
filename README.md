@@ -8,7 +8,7 @@ For more information, access [https://mainframe.com/branding](https://mainframe.
 Don't combine the Mainframe name or logos, or any portion of any of them, with any other logo, company name, mark, or generic terms. Please don't edit, modify, distort, rotate, or recolor the logo.
 
 
-##Colors
+## Colors
 
 Mainframe incorporates red-rose, light blue, dark blue and black colors throughout its branding. Please use the following colors accordingly.
 
