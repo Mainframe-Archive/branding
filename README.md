@@ -1,5 +1,5 @@
 
-# Mainframe Brand Guidelines
+# Mainframe - Brand Guidelines
 
 For more information, access [https://mainframe.com/branding](https://mainframe.com/branding)
 
