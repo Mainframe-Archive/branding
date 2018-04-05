@@ -27,7 +27,7 @@ Mainframe’s illustrations convey the mission and values of the company.  Pleas
 Mainframe’s fonts are free of use. Font weights have specific purposes, please use them accordingly.
 
 - [Galano](https://www.fontfabric.com/galano-grotesque/)
- - Titles / Sub-titles
+  - Titles / Sub-titles
 
 - [Poppins Bold](https://fonts.google.com/specimen/Poppins)
   - Titles / Sub-titles (when Galano is unavailable)
@@ -36,7 +36,7 @@ Mainframe’s fonts are free of use. Font weights have specific purposes, please
   - Sub-titles (Very short paragraphs)
 
 - [Poppins Regular](https://fonts.google.com/specimen/Poppins)
- - Long paragraphs
+  - Long paragraphs
 
 - [Muli Regular](https://fonts.google.com/specimen/Muli)
- - Text heavy document /  Very long paragraphs
+  - Text heavy document /  Very long paragraphs
